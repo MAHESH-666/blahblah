@@ -3,5 +3,3 @@
 uri
 rrr
 rsc
-hi
-data
