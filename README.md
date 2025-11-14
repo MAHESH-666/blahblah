@@ -5,5 +5,3 @@ alpha
 beta
 Request and Response
 Qualcomm
-QC
-AR
