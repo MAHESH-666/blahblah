@@ -5,4 +5,3 @@ alpha
 beta
 Request and Response
 Qualcomm
-Core
