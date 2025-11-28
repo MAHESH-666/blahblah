@@ -13,3 +13,4 @@ sap fico
 Fintech 
 Frankie 
 Disto
+pharma
