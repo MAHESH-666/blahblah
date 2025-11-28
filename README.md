@@ -10,5 +10,4 @@ Serialization and deserialization
 Constructor
 sap
 sap fico 
-Sap ssc
-sap non tech
+Fintech 
