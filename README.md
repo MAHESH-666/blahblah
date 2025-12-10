@@ -5,5 +5,3 @@ beta
 Request and Response
 Qualcomm..
 uoippy
-opiuiup
-uiouyoiy
