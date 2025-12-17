@@ -2,8 +2,5 @@
 # blah-blah
 alpha
 beta
-Request and Responsefdg
+Request and Response
 Qualcomm..
-fhfhfh
-hjghjg
-gghdfd
