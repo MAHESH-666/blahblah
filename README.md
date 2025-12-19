@@ -3,9 +3,4 @@
 alpha
 beta
 Request and Response
-Qualcomm..
-uiluiluil
-iluiluiluil
-uiluiliuluil
-uiluil
-uluil
+Qualcomm...
