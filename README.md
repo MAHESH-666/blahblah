@@ -7,3 +7,4 @@ Qualcomm...
 gghjghj
 gjgjg
 gjguku
+gmukyuk
