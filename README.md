@@ -3,7 +3,4 @@
 alpha
 beta
 Request and Response
-Qualcomm...ukuk
-yukuyk
-yukyukuy
-yukyukyu
+Qualcomm...
