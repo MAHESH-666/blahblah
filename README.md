@@ -1,6 +1,6 @@
 # blahblah
 # blah-blah
 alpha
-betae
+beta
 Request and Response
 Qualcomm...
