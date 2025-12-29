@@ -3,7 +3,4 @@
 alpha
 beta
 Request and Response
-Qualcomm...
-zdvfddh
-fghfgh
-gfhgfhgf
+Qualcomm....
