@@ -4,5 +4,3 @@ alpha
 beta
 Request and Response
 Qualcomm...
-uiyoyl
-ioui
